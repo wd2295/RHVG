@@ -1,4 +1,4 @@
-# This is a 'Hello World'-like repository for getting started with GitHub. I really admire the life and work of the man I will mention below. :blush:
+# This is a 'Hello World'-like repository for getting started with GitHub. I really admire the life and work of the man mentioned below. :blush:
 # RHVG
 Robert Hans van Gulik was an orientalist, diplomat, musician (of Chinese Lute, or say, guqin), and writer. 
 
